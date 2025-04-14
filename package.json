@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://3-Bisevac-Dalia.github.io/your-repo-dalia",
+    "homepage": "https://3-Bisevac-Dalia.github.io/your-repo-dalia"
     },
 
   "dependencies": {
